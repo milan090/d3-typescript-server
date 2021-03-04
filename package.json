@@ -1,5 +1,6 @@
 {
   "name": "d3-typescript-server",
+  "description": "Simple Boilerplate for d3.js Typescript Server with Parcel Bundler",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
